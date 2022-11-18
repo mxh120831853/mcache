@@ -1,4 +1,4 @@
-package mcache
+package cache
 
 import (
 	"context"
